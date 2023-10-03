@@ -4,6 +4,11 @@ Welcome to the Rock Paper Scissors game built with Flutter! This simple yet fun 
 
 This README file provides all the information you need to understand, set up, and run the game on your Flutter development environment.
 
+## SPLASH SCREEN
+![SPLASH SCREEN](https://github.com/hannan248/Rock-Paper-Scissor/blob/master/splash_screen.jpg?raw=true)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
