@@ -7,6 +7,8 @@ This README file provides all the information you need to understand, set up, an
 ## SPLASH SCREEN
 ![SPLASH SCREEN](https://github.com/hannan248/Rock-Paper-Scissor/blob/master/splash_screen.jpg?raw=true)
 
+## HOME SCREEN
+![](https://github.com/hannan248/Rock-Paper-Scissor/blob/master/mainScreen.jpg?raw=true)
 
 
 ## Getting Started
